@@ -15,7 +15,7 @@ Objective: This lab aims to explore active learning techniques to reduce annotat
 
 Task 1: Setup the Dataset:
 
--Load the MNIST dataset using the Hugging Face datasets library.
+-Load the MNIST dataset using the Hugging Face datasets library. \n
 -Convert the image data into Numpy arrays and normalize pixel values to the range [0,1].
 -Flatten each image into a vector of 784 features.
 -Split the dataset into training and testing sets.
